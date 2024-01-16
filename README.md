@@ -11,7 +11,8 @@ Veri Normaliasyonu için Uygulanmış Adımlar:
 4) Tekrarlanan filmlerin olması durumunda tekrarlan satırın kaldırılma işlemi.
 5) Bar plot ile veri görselleştirme.
 6) Filmlerin İMDB_PUANI'na göre sıralanması ve bar plot ile görselleştirilmesi.
-7) Değişkenlik Ölçülerinin hesaplanması; Varyans, Standart Sapma, Aralık, Mod, Medyan, Basıklık, Çarpıklık
+7) Veri setinin histogramını çıkarma işlemi.
+8) Değişkenlik Ölçülerinin hesaplanması; Varyans, Standart Sapma, Aralık, Mod, Medyan, Basıklık, Çarpıklık
 
 Excel dosyamızın son hali
 ![image](https://github.com/Cemile-Nur-Demir/Veri-Normalizasyonu-Python-/assets/101366821/1c27718b-ae55-473e-9904-2f17fb5aa7b1)
